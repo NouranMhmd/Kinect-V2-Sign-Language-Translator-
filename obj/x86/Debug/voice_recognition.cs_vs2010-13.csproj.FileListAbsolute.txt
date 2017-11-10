@@ -1,0 +1,92 @@
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\voice_recognition.cs.exe.config
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\Aiolos.dll
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects\bin\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.ResolveComReference.cache
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\voice_recognition.cs.exe.config
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.ResolveComReference.cache
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\Aiolos.dll
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects - Copy\bin\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\mine\2 projects - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\voice_recognition.cs.exe.config
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.ResolveComReference.cache
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\Aiolos.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project\bin\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\voice_recognition.cs.exe.config
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.ResolveComReference.cache
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\Aiolos.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\bin\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\voice_recognition.cs.exe.config
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.ResolveComReference.cache
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\Aiolos.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\Interop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\bin\x86\Debug\AxInterop.WMPLib.dll
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy\obj\x86\Debug\voice_recognition.cs.Properties.Resources.resources
+E:\Kinect\01 aiolos\mine\01 ALL Project - Copy - Copy\obj\x86\Debug\voice_recognition.cs.Properties.Resources.resources
+E:\PAST.Ref. study\Kinect\01 aiolos\mine\01 ALL Project LATEST\01 ALL Project\bin\x86\Debug\voice_recognition.cs.exe.config
+E:\PAST.Ref. study\Kinect\01 aiolos\mine\01 ALL Project LATEST\01 ALL Project\obj\x86\Debug\Interop.WMPLib.dll
+E:\PAST.Ref. study\Kinect\01 aiolos\mine\01 ALL Project LATEST\01 ALL Project\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\PAST.Ref. study\Kinect\01 aiolos\mine\01 ALL Project LATEST\01 ALL Project\obj\x86\Debug\voice_recognition.cs_vs2010-13.csproj.ResolveComReference.cache
+E:\PAST.Ref. study\Kinect\01 aiolos\mine\01 ALL Project LATEST\01 ALL Project\obj\x86\Debug\voice_recognition.cs.exe
+E:\PAST.Ref. study\Kinect\01 aiolos\mine\01 ALL Project LATEST\01 ALL Project\obj\x86\Debug\voice_recognition.cs.pdb

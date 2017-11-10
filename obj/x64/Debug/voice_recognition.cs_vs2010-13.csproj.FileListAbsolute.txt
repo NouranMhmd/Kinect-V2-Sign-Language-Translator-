@@ -1,0 +1,52 @@
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\bin\x64\Debug\voice_recognition.cs.exe
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\bin\x64\Debug\voice_recognition.cs.pdb
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.MainForm.resources
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.exe
+C:\Program Files (x86)\Intel\RSSDK\framework\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\CSharp\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\obj\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\bin\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\bin\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\bin\x64\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\obj\x64\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\obj\x64\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\obj\x64\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy\obj\x64\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\bin\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\bin\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\bin\x64\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\c sharp orginal\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\01 latest\Intel SDK\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\01 latest\Intel SDK\voice_recognition.cs - Copy - Copy\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\bin\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\bin\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\bin\x64\Debug\libpxcclr.cs.dll
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\01 latest\Latest  SDK\2 projects\obj\x64\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\2 projects\bin\x64\Debug\voice_recognition.cs.exe.config
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs_vs2010-13.csprojResolveAssemblyReference.cache
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs.Form1.resources
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs.MainForm.resources
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs.MainForm2.resources
+E:\Kinect\01 aiolos\mine\2 projects\obj\x64\Debug\voice_recognition.cs_vs2010-13.csproj.GenerateResource.Cache
+E:\Kinect\01 aiolos\mine\2 projects\bin\x64\Debug\voice_recognition.cs.exe
+E:\Kinect\01 aiolos\mine\2 projects\bin\x64\Debug\voice_recognition.cs.pdb
+E:\Kinect\01 aiolos\mine\2 projects\bin\x64\Debug\libpxcclr.cs.dll

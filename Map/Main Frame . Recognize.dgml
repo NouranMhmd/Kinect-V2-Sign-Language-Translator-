@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @6 Member=(Name=AlertToString OverloadingParameters=[(@3 Type=(Name=AlertType @4))]))" Category="CodeSchema_Method" Bounds="1658.21666666667,187.215,105.856666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="AlertToString" FunctionTypeFlags="Method" Label="AlertToString" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=365 StartCharacterOffset=0 EndLineNumber=365 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=(Name=Console2_AfterLabelEdit OverloadingParameters=[(@9 Namespace=System Type=Object),(@12 Namespace=System.Windows.Forms Type=NodeLabelEditEventArgs)]))" Category="CodeSchema_Method" Bounds="1112.08333333333,129.5675,164.123333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Console2_AfterLabelEdit" FunctionTypeFlags="Method" Label="Console2_AfterLabelEdit" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=253 StartCharacterOffset=0 EndLineNumber=253 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=(Name=LanguageToString OverloadingParameters=[(@3 Type=(Name=LanguageType @4))]))" Category="CodeSchema_Method" Bounds="477.871666666667,244.8625,132.546666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="LanguageToString" FunctionTypeFlags="Method" Label="LanguageToString" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=269 StartCharacterOffset=0 EndLineNumber=269 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=(Name=MainForm_Load OverloadingParameters=[(@9 Namespace=System Type=Object),(@9 Namespace=System Type=EventArgs)]))" Category="CodeSchema_Method" Bounds="651.738333333333,129.5675,120.813333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="MainForm_Load" FunctionTypeFlags="Method" Label="MainForm_Load" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=460 StartCharacterOffset=0 EndLineNumber=460 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=(Name=PrintConsole OverloadingParameters=[(@9 Namespace=System Type=String)]))" Category="CodeSchema_Method" Bounds="1508.53833333333,129.5675,103.213333333333,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="PrintConsole" FunctionTypeFlags="Method" Label="PrintConsole" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=295 StartCharacterOffset=0 EndLineNumber=295 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=(Name=Start_Click OverloadingParameters=[(@9 Namespace=System Type=Object),(@9 Namespace=System Type=EventArgs)]))" Category="CodeSchema_Method" Bounds="802.886666666666,129.5675,90.5166666666668,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Start_Click" FunctionTypeFlags="Method" Label="Start_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=218 StartCharacterOffset=0 EndLineNumber=218 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=(Name=dictationToolStripMenuItem_Click OverloadingParameters=[(@9 Namespace=System Type=Object),(@9 Namespace=System Type=EventArgs)]))" Category="CodeSchema_Method" Bounds="641.871666666667,187.215,214.546666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="dictationToolStripMenuItem_Click" FunctionTypeFlags="Method" Label="dictationToolStripMenuItem_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=206 StartCharacterOffset=0 EndLineNumber=206 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=AnonymousMethod__3)" Category="CodeSchema_Method" Bounds="924.223333333333,129.5675,157.843333333333,25.96" CodeSchemaProperty_IsAnonymous="True" Label="AnonymousMethod__3" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=303 StartCharacterOffset=0 EndLineNumber=303 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=GetCheckedLanguage)" Category="CodeSchema_Method" Bounds="1084.25666666667,187.215,151.776666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="GetCheckedLanguage" FunctionTypeFlags="Method" Label="GetCheckedLanguage" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=146 StartCharacterOffset=0 EndLineNumber=146 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=GetCheckedSource)" Category="CodeSchema_Method" Bounds="918.09,187.215,136.11,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="GetCheckedSource" FunctionTypeFlags="Method" Label="GetCheckedSource" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=120 StartCharacterOffset=0 EndLineNumber=120 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=InitializeComponent)" Category="CodeSchema_Method" Bounds="0,187.215,142.29,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="InitializeComponent" FunctionTypeFlags="Method" Label="InitializeComponent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.Designer.cs&quot; StartLineNumber=29 StartCharacterOffset=0 EndLineNumber=29 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=IsCommandControl)" Category="CodeSchema_Method" Bounds="1266.74,187.215,138.81,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="IsCommandControl" FunctionTypeFlags="Method" Label="IsCommandControl" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=160 StartCharacterOffset=0 EndLineNumber=160 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=IsStop)" Category="CodeSchema_Method" Bounds="1435.74,187.215,68.8099999999999,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="IsStop" FunctionTypeFlags="Method" Label="IsStop" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=383 StartCharacterOffset=0 EndLineNumber=383 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=PopulateModule)" Category="CodeSchema_Method" Bounds="322.246666666667,187.215,123.796666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="PopulateModule" FunctionTypeFlags="Method" Label="PopulateModule" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=73 StartCharacterOffset=0 EndLineNumber=73 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @6 Member=PopulateSource)" Category="CodeSchema_Method" Bounds="172.576666666667,187.215,119.136666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="PopulateSource" FunctionTypeFlags="Method" Label="PopulateSource" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=45 StartCharacterOffset=0 EndLineNumber=45 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@10" Category="CodeSchema_Method" Bounds="1534.56833333333,187.215,93.1533333333334,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="PrintStatus" DelayedCrossGroupLinksState="Fetched" FunctionTypeFlags="Method" Label="PrintStatus" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=302 StartCharacterOffset=0 EndLineNumber=302 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@11" Category="CodeSchema_Method" Bounds="1306.79333333333,129.5675,58.7033333333334,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="DoIt" FunctionTypeFlags="Method" Label="DoIt" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/VoiceRecognition.cs&quot; StartLineNumber=174 StartCharacterOffset=0 EndLineNumber=174 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_Method" Bounds="1264.02666666667,57.6475,144.236666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="DoVoiceRecognition" FunctionTypeFlags="Method" Label="DoVoiceRecognition" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=233 StartCharacterOffset=0 EndLineNumber=233 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@14" Category="CodeSchema_Method" Bounds="784.76,244.8625,140.77,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="GetCheckedModule" FunctionTypeFlags="Method" Label="GetCheckedModule" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=133 StartCharacterOffset=0 EndLineNumber=133 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@15" Category="CodeSchema_Method" Bounds="971.855,57.6475000000002,62.58,25.96" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsStatic="True" CommonLabel="Main" FunctionTypeFlags="Method" Label="Main" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/Program.cs&quot; StartLineNumber=31 StartCharacterOffset=0 EndLineNumber=31 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_Method" Bounds="476.743333333333,187.215,134.803333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="PopulateLanguage" FunctionTypeFlags="Method" Label="PopulateLanguage" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=108 StartCharacterOffset=0 EndLineNumber=108 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@5" Category="CodeSchema_Method" Bounds="1400.645,129.5675,77,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="OnAlert" FunctionTypeFlags="Method" Label="OnAlert" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/VoiceRecognition.cs&quot; StartLineNumber=48 StartCharacterOffset=0 EndLineNumber=48 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@7" Category="CodeSchema_Method" Bounds="1470.435,57.6475,115.42,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="OnRecognition" FunctionTypeFlags="Method" Label="OnRecognition" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/VoiceRecognition.cs&quot; StartLineNumber=26 StartCharacterOffset=0 EndLineNumber=26 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@8" Category="CodeSchema_Method" Bounds="499.155,129.5675,89.98,25.96" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="MainForm" FunctionTypeFlags="Constructor" Label="MainForm" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///e:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/MainForm.cs&quot; StartLineNumber=8 StartCharacterOffset=0 EndLineNumber=8 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="1392.65166666667,0,92.9866666666667,25.96" Label="External Code">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@11" Target="(@1 @2 @6 Member=GetCheckedLanguage)" Category="CallStackDirectCall" Bounds="1208.32629394531,152.161422729492,98.467041015625,32.2521362304688" />
+    <Link Source="@11" Target="(@1 @2 @6 Member=GetCheckedSource)" Category="CallStackDirectCall" Bounds="1062.83483886719,151.547149658203,243.95849609375,36.0164947509766" />
+    <Link Source="@11" Target="(@1 @2 @6 Member=IsCommandControl)" Category="CallStackDirectCall" Bounds="1336.14501953125,155.527496337891,0,22.6875" />
+    <Link Source="@11" Target="(@1 @2 @6 Member=IsStop)" Category="CallStackDirectCall" Bounds="1364.51098632813,154.750686645508,67.1949462890625,28.9076385498047" />
+    <Link Source="@11" Target="@10" Category="CallStackDirectCall" Bounds="1365.49670410156,149.453826904297,160.463134765625,37.7563171386719" Weight="9">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@11" Target="@14" Category="CallStackDirectCall" Bounds="863.072021484375,154.318252563477,444.314453125,82.1036682128906" />
+    <Link Source="@13" Target="@11" Category="CallStackDirectCall" Bounds="1336.14501953125,83.6074981689453,0,36.9599990844727" />
+    <Link Source="@15" Target="(@1 @2 @6 Member=(Name=Console2_AfterLabelEdit OverloadingParameters=[(@9 Namespace=System Type=Object),(@12 Namespace=System.Windows.Forms Type=NodeLabelEditEventArgs)]))" Category="CallStackIndirectCall" Bounds="1034.43090820313,80.7630233764648,122.628784179688,45.1146087646484" Label="External Code" LabelBounds="1041.15833333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@15" Target="(@1 @2 @6 Member=(Name=MainForm_Load OverloadingParameters=[(@9 Namespace=System Type=Object),(@9 Namespace=System Type=EventArgs)]))" Category="CallStackIndirectCall" Bounds="745.032165527344,75.695915222168,226.822814941406,49.7121276855469" Label="External Code" LabelBounds="708.158333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@15" Target="(@1 @2 @6 Member=(Name=Start_Click OverloadingParameters=[(@9 Namespace=System Type=Object),(@9 Namespace=System Type=EventArgs)]))" Category="CallStackIndirectCall" Bounds="871.000732421875,80.7630233764648,100.858276367188,43.1151657104492" Label="External Code" LabelBounds="819.158333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@15" Target="(@1 @2 @6 Member=AnonymousMethod__3)" Category="CallStackIndirectCall" Bounds="1003.14501953125,83.6074981689453,0,36.9599990844727" Label="External Code" LabelBounds="930.158333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@15" Target="@8" Category="CallStackDirectCall" Bounds="597.075073242188,74.0789947509766,374.779907226563,54.1574859619141" />
+    <Link Source="@16" Target="(@1 @2 @6 Member=(Name=LanguageToString OverloadingParameters=[(@3 Type=(Name=LanguageType @4))]))" Category="CallStackDirectCall" Bounds="544.14501953125,213.175003051758,0,22.6875" />
+    <Link Source="@16" Target="@14" Category="CallStackDirectCall" Bounds="610.458435058594,212.486968994141,167.226013183594,30.9972991943359" />
+    <Link Source="@5" Target="(@1 @2 @6 Member=(Name=AlertToString OverloadingParameters=[(@3 Type=(Name=AlertType @4))]))" Category="CallStackDirectCall" Bounds="1477.64501953125,150.707168579102,172.011474609375,36.4560089111328" />
+    <Link Source="@5" Target="@10" Category="CallStackDirectCall" Bounds="1471.11791992188,155.527496337891,69.715087890625,28.3021240234375" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=(Name=PrintConsole OverloadingParameters=[(@9 Namespace=System Type=String)]))" Category="CallStackDirectCall" Bounds="1533.92028808594,83.6074981689453,16.790771484375,37.7372055053711" />
+    <Link Source="@8" Target="(@1 @2 @6 Member=(Name=dictationToolStripMenuItem_Click OverloadingParameters=[(@9 Namespace=System Type=Object),(@9 Namespace=System Type=EventArgs)]))" Category="CallStackDirectCall" Bounds="587.997680664063,154.879196166992,106.325256347656,29.8994293212891" />
+    <Link Source="@8" Target="(@1 @2 @6 Member=InitializeComponent)" Category="CallStackDirectCall" Bounds="151.075958251953,148.030715942383,348.079040527344,40.08251953125" />
+    <Link Source="@8" Target="(@1 @2 @6 Member=PopulateModule)" Category="CallStackDirectCall" Bounds="428.638031005859,155.527496337891,79.4811096191406,28.6368103027344" />
+    <Link Source="@8" Target="(@1 @2 @6 Member=PopulateSource)" Category="CallStackDirectCall" Bounds="300.393737792969,150.860198974609,198.761260986328,36.7246398925781" />
+    <Link Source="@8" Target="@16" Category="CallStackDirectCall" Bounds="544.14501953125,155.527496337891,0,22.6875" />
+    <Link Source="ExternalCodeRootNode" Target="@13" Category="CallStackIndirectCall" Bounds="1367.19030761719,25.9599990844727,48.7630615234375,27.2919578552246" />
+    <Link Source="ExternalCodeRootNode" Target="@15" Category="CallStackIndirectCall" Bounds="1043.35729980469,19.1273040771484,349.294311523438,46.1833572387695" />
+    <Link Source="ExternalCodeRootNode" Target="@5" Category="CallStackIndirectCall" Bounds="1439.14501953125,25.9599990844727,0,94.6074981689453" />
+    <Link Source="ExternalCodeRootNode" Target="@7" Category="CallStackIndirectCall" Bounds="1459.18432617188,25.9599990844727,41.367431640625,26.7946929931641" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="Call Stack direct call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack direct call" OutgoingActionLabel="Call Stack direct call" />
+    <Category Id="CallStackEntry" Label="Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Call Stack Entry" />
+    <Category Id="CallStackIndirectCall" Label="Call Stack indirect call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack indirect call" OutgoingActionLabel="Call Stack indirect call" />
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Member" Label="Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_SourceLocation" Label="Source Location" Icon="File" />
+    <Category Id="ExternalCallStackEntry" Label="External Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="External Call Stack Entry" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsAnonymous" Label="Is Anonymous" Description="Flag indicating if this delegate, type, or method is anonymous" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Is Constructor" Description="Flag to indicate the method is a constructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Is Private" Description="Flag to indicate the scope is Private" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsStatic" Label="Is Static" Description="Flag to indicate the member is a static member" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="LabelBounds" DataType="System.Windows.Rect" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Start Line Number" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="Weight" Description="Weight" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="Parent Type" ValueType="System.Object" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(4fec116f-e9f2-42dd-b75e-5dfb45dbf568.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=voice_recognition.cs" />
+    <Alias n="3" Uri="Assembly=file:///E:/Kinect/1.Installed Sample Projects/Microsoft SDKs/01 Intel/Intel/RSSDK//bin/x64/libpxcclr.cs.dll" />
+    <Alias n="4" Id="ParentType=PXCMSpeechRecognition" />
+    <Alias n="5" Id="(@1 @2 Type=VoiceRecognition Member=(Name=OnAlert OverloadingParameters=[(@3 Type=(Name=AlertData @4))]))" />
+    <Alias n="6" Id="Type=MainForm" />
+    <Alias n="7" Id="(@1 @2 Type=VoiceRecognition Member=(Name=OnRecognition OverloadingParameters=[(@3 Type=(Name=RecognitionData @4))]))" />
+    <Alias n="8" Id="(@1 @2 @6 Member=(Name=.ctor OverloadingParameters=[(@3 Type=PXCMSession)]))" />
+    <Alias n="9" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll" />
+    <Alias n="10" Id="(@1 @2 @6 Member=(Name=PrintStatus OverloadingParameters=[(@9 Namespace=System Type=String)]))" />
+    <Alias n="11" Id="(@1 @2 Type=VoiceRecognition Member=(Name=DoIt OverloadingParameters=[(@1 @2 @6),(@3 Type=PXCMSession)]))" />
+    <Alias n="12" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/System.Windows.Forms.dll" />
+    <Alias n="13" Id="(@1 @2 @6 Member=DoVoiceRecognition)" />
+    <Alias n="14" Id="(@1 @2 @6 Member=GetCheckedModule)" />
+    <Alias n="15" Id="(@1 @2 Type=Program Member=Main)" />
+    <Alias n="16" Id="(@1 @2 @6 Member=PopulateLanguage)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Call Stack Node" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External Call Stack Entry" ValueLabel="True">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="4fec116f-e9f2-42dd-b75e-5dfb45dbf568.OutputPathUri" Value="file:///E:/Kinect/01 aiolos/c sharp orginal - Copy/voice_recognition.cs/bin/x64/Debug/voice_recognition.cs.exe" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>
